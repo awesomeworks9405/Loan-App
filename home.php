@@ -68,5 +68,6 @@
 
 <center><button><a href="loanreg.php">Take a Loan</a></button></center>
 <br>
-
 <?php include 'inc/footer.php' ?>
+
+<!-- Developed by Samuel Uche -->
